@@ -6,11 +6,14 @@
 /storage/*.key
 /storage/pail
 /vendor
+/docker
 .env
 .env.backup
 .env.production
 .phpactor.json
 .phpunit.result.cache
+.php-cs-fixer.cache
+../.php-cs-fixer.cache
 Homestead.json
 Homestead.yaml
 npm-debug.log
